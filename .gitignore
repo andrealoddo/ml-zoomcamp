@@ -1,3 +1,11 @@
+# Xtras
+8/data*
+8/dino*
+
+# Models
+*.h5
+*.tflite
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
